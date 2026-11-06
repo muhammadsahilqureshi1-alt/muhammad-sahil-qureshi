@@ -1,0 +1,6 @@
+{
+  "name": "PakPrep - USAT & Entry Test Master",
+  "description": "Pakistan's premier test preparation platform for USAT (HEC Universal Admission Test), MDCAT, ECAT, NUST NET, FAST NU, GIKI, and NTS with timed mock tests, chapter-wise MCQs, and AI essay grading.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
